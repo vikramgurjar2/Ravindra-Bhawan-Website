@@ -1,4 +1,4 @@
-Jawahar Bhawan is one of the various boys hostels at the Indian Institute of Technology, Roorkee. In this repo I will be working on the website which is to be hosted on the internet so that the students can get a glimpse of the hostel.
+Ravindra Bhawan is one of the various boys hostels at the Indian Institute of Technology, Roorkee. In this repo I will be working on the website which is to be hosted on the internet so that the students can get a glimpse of the hostel.
 
 !---------------------------------------React Things---------------------------------------!
 # Getting Started with Create React App
